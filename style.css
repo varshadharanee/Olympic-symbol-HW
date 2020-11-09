@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+}
+#myCanvas{
+	border-width: 10px;
+	background-color: lightblue;
+    border-style: ridge;
+    
+}
+.body_backgorund{
+    background-image: url("https://twistedsifter.files.wordpress.com/2015/12/48-exercises-in-one-animated-gif.gif?w=392&h=294");
+    background-size: cover;
+	background-position: center; 
+}
